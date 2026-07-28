@@ -1,7 +1,5 @@
 # Exoplanet Candidate Classification — NASA Kepler KOI Data
 
-Submission for the **India High School Exoplanet Data Challenge** (Celesta).
-
 A machine learning model that classifies NASA Kepler Objects of Interest (KOI) into
 `CONFIRMED`, `CANDIDATE`, or `FALSE POSITIVE` using real transit and stellar
 photometry data from the Kepler Space Telescope.
