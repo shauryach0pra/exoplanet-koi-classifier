@@ -14,7 +14,7 @@
 
 ### Overview
 
-A machine learning classifier that separates real exoplanets (`CONFIRMED`), unresolved signals (`CANDIDATE`), and non-planetary artifacts (`FALSE POSITIVE`) using NASA Kepler Objects of Interest (KOI) data. Built for the India High School Exoplanet Data Challenge, the project uses transit photometry features to train XGBoost and Random Forest models, achieving 85.9% accuracy with proper feature engineering and leakage prevention.
+A machine learning classifier that separates real exoplanets (`CONFIRMED`), unresolved signals (`CANDIDATE`), and non-planetary artifacts (`FALSE POSITIVE`) using NASA Kepler Objects of Interest (KOI) data. The project uses transit photometry features to train XGBoost and Random Forest models, achieving 85.9% accuracy with proper feature engineering and leakage prevention.
 
 ---
 
